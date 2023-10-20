@@ -1,0 +1,17 @@
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\IPScanner.Application.deps.json
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\IPScanner.Application.dll
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\IPScanner.Application.pdb
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\Domain.dll
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.csproj.AssemblyReference.cache
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.AssemblyInfoInputs.cache
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.AssemblyInfo.cs
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.csproj.CoreCompileInputs.cache
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.csproj.CopyComplete
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.dll
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\refint\IPScanner.Application.dll
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\IPScanner.Application.pdb
+C:\Users\ipapasot\source\repos\IPScanner\IPScanner.Application\obj\Debug\net6.0\ref\IPScanner.Application.dll
