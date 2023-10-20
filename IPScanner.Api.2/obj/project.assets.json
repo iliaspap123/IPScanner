@@ -3539,8 +3539,8 @@
     },
     "Persistence/1.0.0": {
       "type": "project",
-      "path": "../Infrastructure/Persistence.csproj",
-      "msbuildProject": "../Infrastructure/Persistence.csproj"
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3583,6 +3583,9 @@
             },
             "C:\\Users\\ipapasot\\source\\repos\\IPScanner\\Infrastructure\\Persistence.csproj": {
               "projectPath": "C:\\Users\\ipapasot\\source\\repos\\IPScanner\\Infrastructure\\Persistence.csproj"
+            },
+            "C:\\Users\\ipapasot\\source\\repos\\IPScanner\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\ipapasot\\source\\repos\\IPScanner\\Persistence\\Persistence.csproj"
             }
           }
         }
